@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-01-20 21:46-0300\n"
+"PO-Revision-Date: 2018-01-20 21:46-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_CL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: functions.php\n"
+"X-Poedit-SearchPath-1: git-smart-http-wrapper.php\n"
+"X-Poedit-SearchPath-2: admin/functions.php\n"
+"X-Poedit-SearchPath-3: admin/options.php\n"
+
+#: admin/functions.php:19 admin/functions.php:20
+msgid "Git Repositories"
+msgstr "Repositorios Git"
+
+#: admin/options.php:36
+msgid "Git Repositories Options"
+msgstr "Opciones de repositorios Git"
+
+#: admin/options.php:40
+msgid "Repositories"
+msgstr "Repositorios"
+
+#: admin/options.php:61
+msgid "Add a New Repository"
+msgstr "Agregar un nuevo repositorio"
+
+#: admin/options.php:65
+msgid "Name"
+msgstr "Nombre"
+
+#: admin/options.php:69
+msgid "Description"
+msgstr "Descripción"
+
+#: admin/options.php:75
+msgid "Add"
+msgstr "Agregar"
+
+#: admin/options.php:82
+msgid "Common Settings"
+msgstr "Opciones comunes"
+
+#: admin/options.php:86
+msgid "Permalink:"
+msgstr "Enlace permanente:"
+
+#: admin/options.php:87
+msgid "example-repository"
+msgstr "repositorio-de-ejemplo"
+
+#: admin/options.php:91
+msgid "Path to Git"
+msgstr "Ruta a Git"
+
+#: admin/options.php:96
+msgid "Path to Git HTTP Backend"
+msgstr "Ruta al motor HTTP de Git"
+
+#: admin/options.php:101
+msgid "Path to Repositories"
+msgstr "Ruta a los repositorios"
+
+#: admin/options.php:106
+msgid "Roles Allowed to Write"
+msgstr "Roles que pueden escribir"
+
+#: admin/options.php:120
+msgid "Roles Allowed to Read"
+msgstr "Roles que pueden leer"
